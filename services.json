@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com",
+      "icon": "icons/netflix.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com",
+      "icon": "icons/youtube.png"
+    },
+    {
+      "name": "ARD Mediathek",
+      "url": "https://www.ardmediathek.de",
+      "icon": "icons/ard.png"
+    },
+    {
+      "name": "ZDF Mediathek",
+      "url": "https://www.zdf.de",
+      "icon": "icons/zdf.png"
+    },    
+    {
+      "name": "RaiPlay",
+      "url": "https://www.raiplay.it",
+      "icon": "icons/rai.png"
+    },    
+    {
+      "name": "Disney+",
+      "url": "https://www.disneyplus.com",
+      "icon": "icons/disney+.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/intl-de/",
+      "icon": "icons/spotify.png"
+    }
+  ]
