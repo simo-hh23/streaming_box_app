@@ -30,6 +30,11 @@
       "icon": "icons/disney+.png"
     },
     {
+      "name": "Udemy",
+      "url": "https://www.udemy.com/",
+      "icon": "icons/udemy.png"
+    },
+    {
       "name": "Spotify",
       "url": "https://open.spotify.com/intl-de/",
       "icon": "icons/spotify.png"
