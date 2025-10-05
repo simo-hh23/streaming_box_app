@@ -38,5 +38,15 @@
       "name": "Spotify",
       "url": "https://open.spotify.com/intl-de/",
       "icon": "icons/spotify.png"
-    }
+    },
+    {
+      "name": "Joyn",
+      "url": "https://www.joyn.de/",
+      "icon": "icons/Joyn.png"
+    },
+    {
+      "name": "LiveTV.sx",
+      "url": "https://livetv.sx/enx/",
+      "icon": "icons/TV-icon.png"
+    }   
   ]
